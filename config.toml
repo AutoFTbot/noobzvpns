@@ -5,7 +5,7 @@
 # format is array of ports, and port range is 1-65535.
 # the ports must be different number from it array also in [tcp_ssl]
 #listen_ports = [80] for disable
-listen_ports = [80]
+listen_ports = [8080]
 
 [tcp_ssl]
 # format is array of ports, and port range is 1-65535.
